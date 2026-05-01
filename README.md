@@ -1,6 +1,6 @@
 # homebrew-kubera
 
-Homebrew tap for [Kubera](https://github.com/ptmaroct/infiscal-macos) — a native macOS menubar app for Infisical secrets.
+Homebrew tap for [Kubera](https://github.com/ptmaroct/kubera) — a native macOS menubar app for Infisical secrets.
 
 ## Install
 
