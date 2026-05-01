@@ -1,6 +1,6 @@
 cask "kubera" do
-  version "1.3.0"
-  sha256 "5ad26a66f2a627bbcc2ad91d0aecb64311248cf9fa3dabb94f58a93031c6d837"
+  version "1.4.0"
+  sha256 "ae97e0199de4e12d93205ad2167aace34ce972f3a3b732b2c3c2497619c7eaa3"
   url "https://github.com/ptmaroct/kubera/releases/download/v#{version}/Kubera.dmg"
   name "Kubera"
   desc "Native macOS menubar app for Infisical secrets"
